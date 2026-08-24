@@ -1,127 +1,89 @@
-<h1 align="center">Hi 👋, I'm Miquel</h1>
-<h3 align="center">Full Stack Software Engineer · DevOps & CI/CD · Cloud — from Ecuador 🇪🇨</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lesquel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=lesquel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lesquel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
-
-### 🧑‍💻 About me
-
-- 🚀 **Full Stack Software Engineer** — building end-to-end products across frontend, backend, and infrastructure.
-- ⚙️ **DevOps & CI/CD specialist** — designing pipelines, automating deployments, and shipping with confidence.
-- ☁️ **Cloud infrastructure** on **Google Cloud Platform** and Azure.
-- 🧠 Deep into **software architecture & system design** — clean & hexagonal architecture, design patterns, distributed systems.
-- 🌐 Polyglot by nature: comfortable jumping across **Python, Go, JavaScript/TypeScript, PHP, C#** depending on what the problem needs.
-- 💬 Ask me about Python, Go, FastAPI, NestJS, Next.js, Docker, and GCP.
-- 📍 Based in Ecuador 🇪🇨 — open to remote opportunities worldwide.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go" title="Go" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" title="PHP" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" title="C#" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" title="Dart" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" title="C++" />
-</p>
-
-**Frontend**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" title="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" title="Angular" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3" />
-</p>
-
-**Backend**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="NestJS" title="NestJS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel" title="Laravel" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" title="Node.js" />
-</p>
-
-**Mobile**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" title="Flutter" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android" title="Android" />
-</p>
-
-**Databases**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" title="SQLite" />
-</p>
-
-**DevOps & Cloud**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="30" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud" title="Google Cloud Platform" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" title="Azure" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" title="Linux" />
-</p>
-
-**Tools**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" title="Figma" />
-</p>
-
----
-
-### 📫 Let's connect
-
-<p align="left">
-  <a href="https://github.com/lesquel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/soquel1319/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lesquel1319@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub activity
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lesquel/lesquel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lesquel/lesquel/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lesquel/lesquel/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" width="820" alt="Miquel — Ecuador. Builds it, ships it, runs it. Full stack software engineer: backend and cloud infrastructure; now building with Go, FastAPI and CI/CD on GCP.">
 </picture>
 
-<br clear="both">
+<br>
 
-<img src="https://raw.githubusercontent.com/lesquel/lesquel/output/snake.svg" alt="Snake animation" />
+<sub>SELECTED WORKS</sub>
 
-<br clear="both">
+<a href="https://github.com/lesquel/open-remote-control">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-01-dark.svg">
+    <img src="./assets/works-01-light.svg" width="820" alt="01 — Your coding agent, from your phone. open-remote-control (typescript, opencode): a remote control plugin for OpenCode — monitor sessions, send prompts and approve permissions from a web dashboard, over a tunnel, by QR pairing or from Telegram.">
+  </picture>
+</a>
 
-<div align="center">
-  <img src="https://media.tenor.com/TCMWkxIkF9IAAAAj/dancing-gopher.gif" height="120" alt="dancing gopher" />
-</div>
+<a href="https://github.com/lesquel/ERPCrossCFC">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-02-dark.svg">
+    <img src="./assets/works-02-light.svg" width="820" alt="02 — An ERP across three clouds. erp-cross-cfc (angular, go): Crossworlds CFC ERP — an Angular front end and a Go backend in one monorepo, deployed to Vercel, Cloud Run and Neon from a single pipeline.">
+  </picture>
+</a>
+
+<a href="https://github.com/lesquel/multi-rest">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-03-dark.svg">
+    <img src="./assets/works-03-light.svg" width="820" alt="03 — Restaurant management, as a service. multi-rest (go, angular): a multi-restaurant SaaS — a Go API and an Angular 21 front end, split into dedicated backend and frontend repositories around one shared domain.">
+  </picture>
+</a>
+
+<a href="https://github.com/lesquel/NutricIA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-04-dark.svg">
+    <img src="./assets/works-04-light.svg" width="820" alt="04 — Nutrition, with a little help from AI. nutricia (python, typescript): a nutrition platform built end to end — Python backend, TypeScript front end and an Android build published straight from the repository.">
+  </picture>
+</a>
+
+<a href="https://github.com/lesquel/pre-autorizacion-quirurgica">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-05-dark.svg">
+    <img src="./assets/works-05-light.svg" width="820" alt="05 — Surgical pre-authorization, digitised. pre-autorizacion-quirurgica (python): the paperwork path between clinic and insurer, turned into software — requests, approvals and traceability in one system.">
+  </picture>
+</a>
+
+<sub>IN COLLABORATION</sub>
+
+<a href="https://github.com/StevSant/hackiaton_agent_ai_3.0_frontend">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-06-dark.svg">
+    <img src="./assets/works-06-light.svg" width="820" alt="06 — Insurance fraud, flagged by AI. centinela-ia (angular, fastapi, langgraph): an AI agent that flags possible fraud in insurance claims — hackIAthon 2026, Aseguradora del Sur challenge. It alerts, never accuses. With StevSant and DweskZ.">
+  </picture>
+</a>
+
+<p align="right"><sub><a href="https://github.com/lesquel?tab=repositories">all repositories →</a></sub></p>
+
+<sub>STACK</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img src="./assets/stack-light.svg" width="820" alt="Stack — languages: go, typescript, python, php, c#. Frontend: angular, react, next.js, tailwind. Backend: go, fastapi, nestjs, laravel, postgresql. DevOps: docker, github actions, gcp, azure, linux.">
+</picture>
+
+<sub>ACTIVITY</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lesquel&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&hide_title=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lesquel&bg_color=ffffff&color=57606a&line=0969da&point=0969da&area=true&area_color=0969da&hide_border=true&hide_title=true" width="820" alt="Contribution activity graph">
+</picture>
+
+<sub>ELSEWHERE</sub>
+
+<p><sub><a href="https://www.linkedin.com/in/soquel1319/">linkedin</a> · <a href="mailto:lesquel1319@gmail.com">lesquel1319@gmail.com</a></sub></p>
+
+<br>
+
+<p align="center">
+  <img src="https://media.tenor.com/TCMWkxIkF9IAAAAj/dancing-gopher.gif" width="92" alt="A gopher, dancing while the pipeline runs">
+</p>
+
+<p align="center">
+  <sub><i>The author, waiting on CI.</i></sub>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/colophon-dark.svg">
+    <img src="./assets/colophon-light.svg" width="460" alt="LESQUEL — build it, ship it, run it">
+  </picture>
+</p>
